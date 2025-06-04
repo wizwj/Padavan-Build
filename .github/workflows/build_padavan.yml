@@ -92,7 +92,7 @@ on:
         description: 'Customization JSON'
         required: true
         type: string
-        default: '{"lanip":"192.168.2.1","signaccount":"admin","signpassword":"admin","wifi2gssid":"Redmi_C544","wifi2gpsk":"diudiu120820","wifi5gssid":"Redmi_C544_5G","wifi5gpsk":"diudiu120820"}'
+        default: '{"lanip":"192.168.2.1","signaccount":"admin","signpassword":"admin","wifi2gssid":"Redmi_C544","wifi2gpsk":"admin","wifi5gssid":"Redmi_C544_5G","wifi5gpsk":"admin"}'
       nanoversion:
         description: "Build Nano Version"
         type: boolean
